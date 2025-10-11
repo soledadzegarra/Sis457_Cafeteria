@@ -1,0 +1,40 @@
+1. Producto
+
+id: Identificador único del producto.
+nombre: Nombre del producto.
+descripción: Detalle breve de sus características.
+precio: Costo unitario del producto.
+categoría_id: Referencia a la categoría a la que pertenece (relación con Categoría).
+
+2. Cliente
+
+id: Identificador único del cliente.
+nombre: Nombre completo del cliente.
+celular: Número de contacto.
+dirección: Domicilio o ubicación del cliente.
+
+3. Pedido (Orden)
+
+id: Identificador del pedido.
+cliente_id: Relación con el cliente (opcional, si la compra es anónima).
+empleado_id: Identificador del empleado que atendió el pedido.
+fecha: Fecha y hora del registro del pedido.
+total: Monto total del pedido.
+estado: Situación actual del pedido (por ejemplo: en preparación, listo, entregado).
+
+4. Detalle de Pedido
+
+id: Identificador del detalle.
+pedido_id: Relación con el pedido principal.
+producto_id: Relación con el producto solicitado.
+cantidad: Número de unidades del producto.
+precio_unitario: Precio de cada unidad en el momento del pedido.
+
+5. Empleado
+
+id: Identificador único del empleado.
+nombre: Nombre completo.
+rol: Función o cargo dentro del negocio (ejemplo: barista, cajero, administrador).
+celular: Número de contacto.
+contraseña: Credenciales para el inicio de sesión en el sistema.
+
