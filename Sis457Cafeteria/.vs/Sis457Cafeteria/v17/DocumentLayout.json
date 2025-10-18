@@ -1,12 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\PROGRAMACION\\MARLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\Sis457Cafeteria\\",
+  "WorkspaceRootPath": "G:\\PROGRAMACION\\SOLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\Sis457Cafeteria\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E9898A-C9CC-4C05-B624-6E0A98C1E4D4}|CadCafeteria\\CadCafeteria.csproj|g:\\programacion\\sole lab\\sis457 cafeteria\\sis457_cafeteria\\sis457cafeteria\\cadcafeteria\\modelo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{48E9898A-C9CC-4C05-B624-6E0A98C1E4D4}|CadCafeteria\\CadCafeteria.csproj|solutionrelative:cadcafeteria\\modelo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E9898A-C9CC-4C05-B624-6E0A98C1E4D4}|CadCafeteria\\CadCafeteria.csproj|g:\\programacion\\sole lab\\sis457 cafeteria\\sis457_cafeteria\\sis457cafeteria\\cadcafeteria\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48E9898A-C9CC-4C05-B624-6E0A98C1E4D4}|CadCafeteria\\CadCafeteria.csproj|solutionrelative:cadcafeteria\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PROGRAMACION\\MARLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\DDL_DML_CAFETERIA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PROGRAMACION\\MARLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\DDL_DML_CAFETERIA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PROGRAMACION\\MARLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\DDL_DML_CAFETERIA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,9 +32,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Modelo.edmx [Diagram1]",
+              "DocumentMoniker": "G:\\PROGRAMACION\\SOLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\Sis457Cafeteria\\CadCafeteria\\Modelo.edmx",
+              "RelativeDocumentMoniker": "CadCafeteria\\Modelo.edmx",
+              "ToolTip": "G:\\PROGRAMACION\\SOLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\Sis457Cafeteria\\CadCafeteria\\Modelo.edmx [Diagram1]",
+              "RelativeToolTip": "CadCafeteria\\Modelo.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-10-18T15:27:08.839Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.Config",
+              "DocumentMoniker": "G:\\PROGRAMACION\\SOLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\Sis457Cafeteria\\CadCafeteria\\App.Config",
+              "RelativeDocumentMoniker": "CadCafeteria\\App.Config",
+              "ToolTip": "G:\\PROGRAMACION\\SOLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\Sis457Cafeteria\\CadCafeteria\\App.Config",
+              "RelativeToolTip": "CadCafeteria\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-18T15:26:11.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DDL_DML_CAFETERIA.sql ",
               "DocumentMoniker": "G:\\PROGRAMACION\\MARLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\DDL_DML_CAFETERIA.sql",
-              "RelativeDocumentMoniker": "..\\DDL_DML_CAFETERIA.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MARLE LAB\\SIS457 CAFETERIA\\Sis457_cafeteria\\DDL_DML_CAFETERIA.sql",
               "ToolTip": "DDL_DML_CAFETERIA.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-10-11T00:44:18.058Z",
