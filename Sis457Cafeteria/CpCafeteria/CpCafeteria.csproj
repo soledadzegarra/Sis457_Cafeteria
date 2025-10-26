@@ -46,6 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmAutenticacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAutenticacion.Designer.cs">
+      <DependentUpon>FrmAutenticacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategoriacs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCategoriacs.Designer.cs">
+      <DependentUpon>FrmCategoriacs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +72,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAutenticacion.resx">
+      <DependentUpon>FrmAutenticacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCategoriacs.resx">
+      <DependentUpon>FrmCategoriacs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmClientes.resx">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -91,6 +118,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\sentiment_satisfied_25dp_FFEFD5_FILL0_wght400_GRAD0_opsz24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa2.png" />
+    <None Include="Resources\lupa1.png" />
+    <None Include="Resources\add_25dp_000000_FILL0_wght400_GRAD0_opsz24.png" />
+    <None Include="Resources\edit_25dp_000000_FILL0_wght400_GRAD0_opsz24.png" />
+    <None Include="Resources\delete_25dp_000000_FILL0_wght400_GRAD0_opsz24.png" />
+    <Content Include="Resources\Image_21_may_2025__09_58_34_a.m.-removebg-preview2.ico" />
+    <Content Include="Resources\Image_21_may_2025__09_58_34_a.m.-removebg-preview2.png" />
+    <None Include="Resources\Image_21_may_2025__09_58_34_a.m.-removebg-preview21.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

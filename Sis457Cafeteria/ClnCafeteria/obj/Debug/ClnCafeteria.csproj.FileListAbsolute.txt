@@ -1,0 +1,6 @@
+G:\PROGRAMACION\MARLE LAB\SIS457 CAFETERIA\Sis457_cafeteria\Sis457Cafeteria\ClnCafeteria\bin\Debug\ClnCafeteria.dll
+G:\PROGRAMACION\MARLE LAB\SIS457 CAFETERIA\Sis457_cafeteria\Sis457Cafeteria\ClnCafeteria\bin\Debug\ClnCafeteria.pdb
+G:\PROGRAMACION\MARLE LAB\SIS457 CAFETERIA\Sis457_cafeteria\Sis457Cafeteria\ClnCafeteria\obj\Debug\ClnCafeteria.csproj.AssemblyReference.cache
+G:\PROGRAMACION\MARLE LAB\SIS457 CAFETERIA\Sis457_cafeteria\Sis457Cafeteria\ClnCafeteria\obj\Debug\ClnCafeteria.csproj.CoreCompileInputs.cache
+G:\PROGRAMACION\MARLE LAB\SIS457 CAFETERIA\Sis457_cafeteria\Sis457Cafeteria\ClnCafeteria\obj\Debug\ClnCafeteria.dll
+G:\PROGRAMACION\MARLE LAB\SIS457 CAFETERIA\Sis457_cafeteria\Sis457Cafeteria\ClnCafeteria\obj\Debug\ClnCafeteria.pdb
