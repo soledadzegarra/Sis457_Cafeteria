@@ -64,6 +64,24 @@
     <Compile Include="FrmClientes.Designer.cs">
       <DependentUpon>FrmClientes.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpleado.Designer.cs">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaPedidos.Designer.cs">
+      <DependentUpon>FrmListaPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPedidos.Designer.cs">
+      <DependentUpon>FrmPedidos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +98,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmClientes.resx">
       <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpleado.resx">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaPedidos.resx">
+      <DependentUpon>FrmListaPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPedidos.resx">
+      <DependentUpon>FrmPedidos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
@@ -120,11 +147,15 @@
     <None Include="Resources\sentiment_satisfied_25dp_FFEFD5_FILL0_wght400_GRAD0_opsz24.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\refresh_25dp_000000_FILL0_wght400_GRAD0_opsz2422.png" />
+    <None Include="Resources\search_23dp_EAC452_FILL0_wght400_GRAD0_opsz24.png" />
+    <None Include="Resources\save_25dp_000000_FILL0_wght400_GRAD0_opsz24.png" />
     <None Include="Resources\lupa2.png" />
     <None Include="Resources\lupa1.png" />
     <None Include="Resources\add_25dp_000000_FILL0_wght400_GRAD0_opsz24.png" />
     <None Include="Resources\edit_25dp_000000_FILL0_wght400_GRAD0_opsz24.png" />
     <None Include="Resources\delete_25dp_000000_FILL0_wght400_GRAD0_opsz24.png" />
+    <None Include="Resources\dangerous_25dp_000000_FILL0_wght400_GRAD0_opsz24.png" />
     <Content Include="Resources\Image_21_may_2025__09_58_34_a.m.-removebg-preview2.ico" />
     <Content Include="Resources\Image_21_may_2025__09_58_34_a.m.-removebg-preview2.png" />
     <None Include="Resources\Image_21_may_2025__09_58_34_a.m.-removebg-preview21.png" />
